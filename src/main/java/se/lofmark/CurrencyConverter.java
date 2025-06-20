@@ -28,7 +28,7 @@ public class CurrencyConverter {
 
                 double doubleInput;
                 String promptMsg2 = "Enter desired amount to convert: ";
-                String errorMsg2 = "Error - Input is not a positive number, please enter a positive number.";
+                String errorMsg2 = "Error: Input is not a positive number, please enter a positive number.";
 
                 doubleInput = kb.readDouble(promptMsg2, errorMsg2, 1, 999999999.999);
 
@@ -42,7 +42,7 @@ public class CurrencyConverter {
 
                 double doubleInput;
                 String promptMsg2 = "Enter desired amount to convert: ";
-                String errorMsg2 = "Error - Input is not a positive number, please enter a positive number.";
+                String errorMsg2 = "Error: Input is not a positive number, please enter a positive number.";
 
                 doubleInput = kb.readDouble(promptMsg2, errorMsg2, 1, 999999999.999);
 
@@ -55,7 +55,7 @@ public class CurrencyConverter {
 
                 double doubleInput;
                 String promptMsg2 = "Enter desired amount to convert: ";
-                String errorMsg2 = "Error - Input is not a positive number, please enter a positive number.";
+                String errorMsg2 = "Error: Input is not a positive number, please enter a positive number.";
 
                 doubleInput = kb.readDouble(promptMsg2, errorMsg2, 1, 999999999.999);
 
@@ -68,7 +68,7 @@ public class CurrencyConverter {
 
                 double doubleInput;
                 String promptMsg2 = "Enter desired amount to convert: ";
-                String errorMsg2 = "Error - Input is not a positive number, please enter a positive number.";
+                String errorMsg2 = "Error: Input is not a positive number, please enter a positive number.";
 
                 doubleInput = kb.readDouble(promptMsg2, errorMsg2, 1, 999999999.999);
 
@@ -81,7 +81,7 @@ public class CurrencyConverter {
 
                 double doubleInput;
                 String promptMsg2 = "Enter desired amount to convert: ";
-                String errorMsg2 = "Error - Input is not a positive number, please enter a positive number.";
+                String errorMsg2 = "Error: Input is not a positive number, please enter a positive number.";
 
                 doubleInput = kb.readDouble(promptMsg2, errorMsg2, 1, 999999999.999);
 
@@ -94,7 +94,7 @@ public class CurrencyConverter {
 
                 double doubleInput;
                 String promptMsg2 = "Enter desired amount to convert: ";
-                String errorMsg2 = "Error - Input is not a positive number, please enter a positive number.";
+                String errorMsg2 = "Error: Input is not a positive number, please enter a positive number.";
 
                 doubleInput = kb.readDouble(promptMsg2, errorMsg2, 1, 999999999.999);
 
