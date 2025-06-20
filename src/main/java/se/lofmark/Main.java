@@ -1,7 +1,7 @@
 package se.lofmark;
 
-public class CurrencyCalc {
+public class Main {
     public static void main(String[] args) {
-        
+        CurrencyConverter.runCalculator();
     }
 }
