@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class CurrencyConverter {
 
-    public static void runCalculator() {
+    public static void runConverter() {
 
         LocalDateTime currentDateTime = LocalDateTime.now();
         String ISO = currentDateTime.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME);
