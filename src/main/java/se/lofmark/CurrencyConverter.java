@@ -11,7 +11,6 @@ public class CurrencyConverter {
         LocalDateTime currentDateTime = LocalDateTime.now();
         String ISO = currentDateTime.format(DateTimeFormatter.ISO_LOCAL_DATE_TIME);
 
-        Scanner sc = new Scanner(System.in);
         displayMenu();
 
         DataValidation kb = new DataValidation();
